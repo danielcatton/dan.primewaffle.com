@@ -173,6 +173,17 @@ table {
     background-color: #24252A;
 }
 
+.icon2 {
+    height: 80%;
+    border: 0px;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 5px;
+    float: right;
+    max-width: 40px;
+    background-color: #24252A;
+}
+
 .festimg {
     max-height: 150px;
     max-width: 200px;
