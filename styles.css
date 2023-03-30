@@ -157,7 +157,7 @@ table {
 .iconHolder {
     width: 20vw;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: #24252A;
 }
 
