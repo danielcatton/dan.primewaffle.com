@@ -25,15 +25,15 @@
         <h1>Contact Us</h1>
         <p>Use the form below to send our support team a message. We'll get back to you as soon as we can!</p><br>
         <div class="container">
-            <form action="action_page.php">
-
-            <label for="text"></label>
-            <input type="text" name="question" id="question" placeholder="Enter Text...">
-            <br>
-            <label for="email"></label>
-            <input type="text" id="email" name="email" placeholder="Enter your Email...">
-
-            </form>
+            <form id="contactform">
+                <label for="Name">Name:</label>
+                <input type="text" name="Name">
+                <label for="Email">Email:</label>
+                <input type="email" name="Email">
+                <label for="Message">Message:</label>
+                <span role="textbox" name="Message" id="MessageBox" contenteditable></span>
+                <button>Submit</button>
+            </form>    
         </div>
         </main>
         <footer id="footer">
