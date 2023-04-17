@@ -234,9 +234,5 @@ form > button {
 }
 
 .container {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: start;
-    padding-top: 5%;
+    display: flex; align-items: center; flex-direction: column; justify-content: start; padding-top: 5%;
 }
