@@ -1,0 +1,43 @@
+form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: start;
+    height: 30%;
+}
+
+form > label {
+    margin-top: 15px;
+}
+
+form > input,form > span, form > label {
+    font-family: 'Atkinson Hyperlegible';
+    font-size: 1.1em;
+    color: #000000;
+    width: 100%;
+    min-height: 40px;
+    border-radius: 10px;
+}
+
+form > button {
+    padding: 9px 25px;
+    background-color: rgba(0, 139, 192, 1);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.1em;
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+#MessageBox {
+    background-color: white;
+    border-radius: 10px;
+    border: solid #24252A;
+    padding-left: 5px;
+}
+
