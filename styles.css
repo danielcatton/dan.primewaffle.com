@@ -196,7 +196,7 @@ table {
     font-weight: 400;
 }
 
-input[id="email"], textarea {
+input[id="Email"], textarea {
     width: 500px;
     font-size: 1.1em;
     font-family: "Atkinson Hyperlegible", sans-serif;
@@ -204,7 +204,7 @@ input[id="email"], textarea {
     font-style: italic;
 }
 
-input[id="question"], textarea {
+input[id="Name"], textarea {
     width: 500px;
     height: 400px;
     font-size: 1.1em;
