@@ -212,6 +212,8 @@ form > label {
 }
 
 form > input,form > span, form > label {
+    font-family: 'Atkinson Hyperlegible';
+    font-size: 1.1em;
     width: 100%;
     min-height: 40px;
     border-radius: 10px;
